@@ -30,6 +30,6 @@ test
 <a href="https://flagcounter.me/details/dg6"><img src="https://flagcounter.me/dg6/" alt="Flag Counter"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrr-233&langs_count=8&title_color=FFAEC9&icon_color=A349A4&bg_color=FFFAFF&border_color=FFAEC9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+↑ This statistics information is not so accurate because my race record contributes to most of the HTML code
 
-↓ This statistics information is not so accurate because my race record contributes to most of the HTML code
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xrr-233&show_icons=true&title_color=FFAEC9&icon_color=A349A4&bg_color=FFFAFF&border_color=FFAEC9)](https://github.com/anuraghazra/github-readme-stats)
