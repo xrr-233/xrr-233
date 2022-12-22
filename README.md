@@ -26,9 +26,6 @@ Currently some projects are processing and they may be public once determined.
 
 <a href="https://info.flagcounter.com/Kjov"><img src="https://s11.flagcounter.com/count2/Kjov/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-test
-<a href="https://flagcounter.me/details/dg6"><img src="https://flagcounter.me/dg6/" alt="Flag Counter"></a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrr-233&langs_count=8&title_color=FFAEC9&icon_color=A349A4&bg_color=FFFAFF&border_color=FFAEC9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ↑ This statistics information is not so accurate because my race record contributes to most of the HTML code
