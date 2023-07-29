@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently an undergraduate Year 4 student at City University of Hong Kong who is interested in computer-graphic-related topics, like 3D reconstruction, digital human (with computer vision), etc. You can try to have a look at my personal website (in Chinese) (The functions in the website is not so completed, and I will improve them in these days).
+I am currently a nearly-graduated student at City University of Hong Kong, and will take MSc in Computer Science (Multimedia & Creative Technologies) at USC soon. I am interested in and  looking to collaborate on computer-graphic-related topics, like 3D reconstruction, digital human (with computer vision), etc.
 
-Currently some projects are processing and they may be public once determined.
-
-**KKSK!**
+I only accept email contact, so please contact me by the email provided in my profile instead.
 
 ![](https://komarev.com/ghpvc/?username=xrr-233&style=plastic&color=FFAEC9)
 
