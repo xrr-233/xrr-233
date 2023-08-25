@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a nearly-graduated student at City University of Hong Kong, and will take MSc in Computer Science (Multimedia & Creative Technologies) at USC soon. I am interested in and  looking to collaborate on computer-graphic-related topics, like 3D reconstruction, digital human (with computer vision), etc.
+I am currently a Master of Science student studying Computer Science (Multimedia & Creative Technologies) at University of Southern California. I am interested in and looking forward to develop and collaborate on CG-related topics, like 3D reconstruction, digital human (with computer vision), etc.
 
 I only accept email contact, so please contact me by the email provided in my profile instead.
 
