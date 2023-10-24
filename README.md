@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a Master of Science student studying Computer Science (Multimedia & Creative Technologies) at University of Southern California. I am interested in and looking forward to develop and collaborate on CG-related topics, like 3D reconstruction, digital human (with computer vision), etc.
+I am currently a Master of Science student studying Computer Science (Multimedia & Creative Technologies) at University of Southern California. Before that, I obtained my Bachelor's degree from City University of Hong Kong with the First Class Honor title.
+
+I am interested in and looking forward to developing and collaborating on specific related topic about CG, like 3D reconstruction, neural rendering, modeling, game engine, physics simulation, animation, visual effects, character & digital human, 3D vision, VR/AR, etc.
+
+Other related hobbies including music & video making, mikumikudance, ripping, audio processing, voice conversion & text-to-speech, image processing, gaming, etc.
 
 I only accept email contact, so please contact me by the email provided in my profile instead.
 
