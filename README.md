@@ -28,6 +28,7 @@ Other related hobbies including music & video making, mikumikudance, ripping, au
 
 I only accept email contact, so please contact me by the email provided in my profile instead.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrr-233&langs_count=8&title_color=FFAEC9&icon_color=A349A4&bg_color=FFFAFF&border_color=FFAEC9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xrr-233&show_icons=true&title_color=FFAEC9&icon_color=A349A4&bg_color=FFFAFF&border_color=FFAEC9)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrr-233&langs_count=8&title_color=e792a9&icon_color=a349a4&bg_color=fffaff&border_color=e792a9&layout=compact"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=xrr-233&show_icons=true&title_color=e792a9&icon_color=a349a4&bg_color=fffaff&border_color=e792a9"></a>
+</p>
