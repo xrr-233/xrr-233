@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://xrr-233.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/My_Website-555555?style=flat-square&logo=ESRI"></a>
-  ![](https://komarev.com/ghpvc/?username=xrr-233&style=flat-square&color=f0939e)
+  <a href="https://github.com/xrr-233"><img alt="GitHub Profile Views Counter" src="https://komarev.com/ghpvc/?username=xrr-233&style=flat-square&color=f0939e"></a>
 </p>
 
 I am currently a Master of Science student studying Computer Science (Multimedia & Creative Technologies) at [University of Southern California](https://www.cs.usc.edu/). Before that, I obtained my Bachelor's degree from [City University of Hong Kong](https://www.cs.cityu.edu.hk/) with the First Class Honor title.
