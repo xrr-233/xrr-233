@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/xrr-233"><img alt="GitHub Profile Views Counter" src="https://komarev.com/ghpvc/?username=xrr-233&style=flat-square&color=f0939e"></a>
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/xrr-233/count.svg)
+
 I am currently a Master of Science student studying Computer Science (Multimedia & Creative Technologies) at [University of Southern California](https://www.cs.usc.edu/). Before that, I obtained my Bachelor's degree from [City University of Hong Kong](https://www.cs.cityu.edu.hk/) with the First Class Honor title.
 
 I am interested in and looking forward to developing and collaborating on specific related topic about CG, like 3D reconstruction, neural rendering, modeling, game engine, physics simulation, animation, visual effects, character & digital human, 3D vision, VR/AR, etc.
