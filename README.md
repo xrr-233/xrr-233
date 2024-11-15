@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - Character & Digital Human
 - Physics Simulation
-- 3D vision
+- 3D Vision
 - Game Engines
 - Visual Effects
 - VR/AR
